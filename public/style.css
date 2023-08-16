@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(5, 245, 133);
+    background-image: url(./image/Background_image.png);
+}
+.wordGame {
+    
+    /* This will create a box with a width of 80% of the screen and center it horizontally */
+    width: 60%;
+    margin: 0 auto;
+    /* This will add some background color, border, and shadow to the box */
+    background-color: rgb(9, 243, 79);
+    border: 5px solid black;
+    box-shadow: 10px 10px 5px rgba(0,0,0,0.3);
+    /* This will add some space between the content and the border */
+    padding: 20px;
+    border-radius: 20%;
+  }
+  .phoneBill {
+    /* This will create a box with a width of 80% of the screen and center it horizontally */
+    width: 60%;
+    margin: 0 auto;
+    /* This will add some background color, border, and shadow to the box */
+    background-color: rgb(166, 223, 10);
+    border: 5px solid blue;
+    box-shadow: 10px 10px 5px rgba(0,0,0,0.3);
+    /* This will add some space between the content and the border */
+    padding: 20px;
+    border-radius: 20%;
+  }
+  .enoughAirtime {
+    /* This will create a box with a width of 80% of the screen and center it horizontally */
+    width: 60%;
+    margin: 0 auto;
+    /* This will add some background color, border, and shadow to the box */
+    background-color: rgb(7, 252, 239);
+    border: 5px solid red;
+    box-shadow: 10px 10px 5px rgba(0,0,0,0.3);
+    /* This will add some space between the content and the border */
+    padding: 20px;
+    border-radius: 20%;
+  }
+  
